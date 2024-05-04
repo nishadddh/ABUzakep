@@ -9,6 +9,13 @@
 <img align="right" height="300" width= "1000" src="https://i.postimg.cc/VsS0WjDj/Abu.gif"  />
 
 
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
 <h2 align="left">Welcome to My Profile README</h2>
 
 👋 Hi, I'm Nishad Shajahan!
