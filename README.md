@@ -1,3 +1,5 @@
+
+<img align="right" height="300" width= "500" src="https://i.postimg.cc/VsS0WjDj/Abu.gif"  />
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,7 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<img align="right" height="300" width= "500" src="https://i.postimg.cc/VsS0WjDj/Abu.gif"  />
 
 
 <h2 align="left">Welcome to My Profile README</h2>
