@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Profile README</title>
 </head>
 <body>
 
@@ -13,10 +12,7 @@
 
 I'm thrilled that you stopped by my profile. Let me share a little bit about myself and what I'm up to. 😊
 
-<h3>About Me</h3>
-
-👀 Interests: I have a wide range of interests, from technology to art, from sports to literature. I believe in exploring the world without limiting myself to just one thing.
-
+<h3>About Me</h3
 🌱 Currently Learning: I'm currently pursuing my Bachelor of Computer Applications (BCA) and diving deep into the world of programming and computer science.
 
 <h3>Collaboration Opportunities</h3>
@@ -31,11 +27,9 @@ I'm thrilled that you stopped by my profile. Let me share a little bit about mys
 
 Thank you for visiting my profile README! Let's connect, share ideas, and make the most of this incredible platform. 🚀
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src=""  />
 
 ###
 
