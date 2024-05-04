@@ -1,3 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Profile README</title>
+</head>
+<body>
+
+<h2 align="left">Welcome to My Profile README</h2>
+
+👋 Hi, I'm Nishad Shajahan!
+
+I'm thrilled that you stopped by my profile. Let me share a little bit about myself and what I'm up to. 😊
+
+<h3>About Me</h3>
+
+👀 Interests: I have a wide range of interests, from technology to art, from sports to literature. I believe in exploring the world without limiting myself to just one thing.
+
+🌱 Currently Learning: I'm currently pursuing my Bachelor of Computer Applications (BCA) and diving deep into the world of programming and computer science.
+
+<h3>Collaboration Opportunities</h3>
+
+💞 Collaboration: While I might not have specific projects in mind right now, I'm always open to exciting collaborations. If you have an idea or project you think I'd be interested in, please don't hesitate to reach out.
+
+<h3>Contact Me</h3>
+
+📫 How to Reach Me: Feel free to contact me through <a href="mailto:nishadnisha2001@gmail.com">nishadnisha2001@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/nishad-s-737654261/">Linkedin</a>. I'm always eager to connect with fellow enthusiasts, so don't be shy!
+
+<h3>Let's Connect</h3>
+
+Thank you for visiting my profile README! Let's connect, share ideas, and make the most of this incredible platform. 🚀
+
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
@@ -33,4 +66,5 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+</body>
+</html>
