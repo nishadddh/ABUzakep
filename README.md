@@ -29,7 +29,7 @@ Thank you for visiting my profile README! Let's connect, share ideas, and make t
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://i.postimg.cc/VsS0WjDj/Abu.gif"  />
 
 ###
 
