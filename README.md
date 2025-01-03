@@ -3,12 +3,7 @@
   <div class="container">
     <h1 class="mb-3">Developer & Deployer</h1>
     <p class="lead mb-5">Building the Future, One Idea at a Time</p>
-    <div class="hero-buttons">
-      <a href="view.html" class="btn btn-hero btn-primary">Learn More</a>
-      <a href="Nishad_shajahan_cv.pdf" class="btn btn-hero btn-outline-light" download>
-        <i class="fas fa-download mr-2"></i>Download CV
-      </a>
-    </div>
+    
   </div>
 </section>
 
@@ -51,14 +46,10 @@ of enthusiasm and determination</p>
       <div class="section-title">
         <h2>Major Projects</h2>
       </div>
-      <div class="row">
+     
 
 
-      <div class="col-md-4 mb-4">
-          <div class="card project-card">
-            <div class="card-body">
-              <h5 class="card-title">Enhanced Security in IPv6 Address Generation</h5>
-              <p class="card-text"> Designed and implemented a secure IPv6 address
+     Designed and implemented a secure IPv6 address
 generation algorithm using SHA-1 and SHA-512 cryptographic hashing to address vulnerabilities in traditional
 SLAAC mechanisms. Integrated features such as double hashing, collision detection, and malicious activity
 tracking to improve privacy and reduce address predictability. [2024].</p>
@@ -67,34 +58,21 @@ tracking to improve privacy and reduce address predictability. [2024].</p>
         </div>
 
 
-        <div class="col-md-4 mb-4">
-          <div class="card project-card">
-            <div class="card-body">
-              <h5 class="card-title">CarVeno</h5>
-              <p class="card-text">CarVeno is a comprehensive platform bridging the gap between car showrooms and users, offering
+      CarVeno is a comprehensive platform bridging the gap between car showrooms and users, offering
 detailed car information and facilitating seamless service center bookings. Through its intuitive app and
 website, users can explore car details effortlessly and access convenient service solutions, ensuring a hassle-free
 automotive experience. [2024]
 </p>
             </div>
-          </div>
-        </div>
-        <div class="col-md-4 mb-4">
-          <div class="card project-card">
-            <div class="card-body">
-              <h5 class="card-title">Cloud Academic Resources</h5>
-              <p class="card-text">Developed a cloud and NFC-enabled platform for academic web
+Cloud Academic Resources
+              Developed a cloud and NFC-enabled platform for academic web
 resources, our project aims to streamline access to educational materials through seamless connectivity and
 efficient cloud storage solutions. By integrating NFC technology, users can easily access resources with a simple
 tap, enhancing convenience and accessibility in the academic realm. [2023].</p>
             </div>
           </div>
         </div>
-        <div class="col-md-4 mb-4">
-          <div class="card project-card">
-            <div class="card-body">
-              <h5 class="card-title">Cybersecurity Research</h5>
-              <p class="card-text">Research and implementation of security measures through Cisco Virtual Internship.</p>
+       Research and implementation of security measures through Cisco Virtual Internship.</p>
             </div>
           </div>
         </div>
