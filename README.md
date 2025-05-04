@@ -8,9 +8,8 @@
 </section>
 
 
-<div style="text-align: center; margin-top: 40px;">
-  <img src="https://github.com/nishadddh/ABUzakep/blob/output/snake.svg" alt="GitHub Snake Animation" />
-</div>
+
+<img src="https://raw.githubusercontent.com/nishadddh/ABUzakep/output/snake.svg" alt="GitHub Snake Animation" />
 
 
 
