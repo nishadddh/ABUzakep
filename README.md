@@ -9,9 +9,9 @@
 
 
 
-<img src="https://raw.githubusercontent.com/nishadddh/ABUzakep/output/snake.svg" alt="GitHub Snake Animation" />
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nishadddh/ABUzakep/output/snake.svg" alt="Snake animation" />
+</div>
 
 
   <!-- About Section -->
