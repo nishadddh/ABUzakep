@@ -9,9 +9,7 @@
 
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nishadddh/ABUzakep/output/snake.svg" alt="Snake animation" />
-</div>
+![Snake animation](https://raw.githubusercontent.com/nishadddh/ABUzakep/output/github-contribution-grid-snake.svg)
 
 
   <!-- About Section -->
